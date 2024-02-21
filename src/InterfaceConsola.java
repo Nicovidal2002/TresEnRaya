@@ -30,8 +30,7 @@ public class InterfaceConsola {
             System.out.println("este es eñ tablero");
 
             imprimirTablero(juego.getTablero());
-
-            System.out.println("las casillas estan numeradas de la siguiente forma");
+                
             System.out.println("el jugador humano es X y el jugador maquina es O" );
             System.out.println("comienza el jugador humano");
 
